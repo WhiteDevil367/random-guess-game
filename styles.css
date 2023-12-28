@@ -1,0 +1,61 @@
+body{
+    margin: 0px;
+    height: 100vh;
+    width: 100%;
+    background-size: auto;
+    background-color: aliceblue;
+}
+.main-container{
+    text-align: center;
+}
+.title{
+    background-color: bisque;
+    color: rgb(93, 196, 230);
+}
+.box{
+    height:120px;
+    width: 120px;
+    border-radius: 30px;
+    margin: 10px;
+    font-size: 23px;
+    font-family: "roboto";
+
+}
+.boxes{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.box-1{
+    background-color: red;
+    color: beige;
+    text-align: center;
+    
+}
+.box-2 {
+    background-color: blue;
+    color: beige;
+    text-align: center;
+}
+.box-3{
+    background-color: green;
+    color: beige;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.button{
+    background-color: aqua;
+    border: none;
+    height: 40px;
+    width: 100px;
+    border-radius: 13px;
+    color: rgb(210, 51, 37);
+    font-weight: bold;
+    margin-top: 100px;
+}
+.button:hover{
+    background-color:chartreuse;
+    color:rgb(193, 105, 105);
+}
