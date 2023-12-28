@@ -11,6 +11,8 @@ body{
 .title{
     background-color: bisque;
     color: rgb(93, 196, 230);
+    font-size: 22px;
+    font-weight: bold;
 }
 .box{
     height:120px;
