@@ -1,6 +1,9 @@
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 5a1d81a93cc183b03dc60b7c04107fc8350d468f
 let counter = document.getElementById("counter");
 let decrease =  document.getElementById("decrease");
 let reset = document.getElementById("reset");
