@@ -1,16 +1,6 @@
 
 
-/*
-let age;
-document.getElementById("btn").onclick = function(){
-    user = document.getElementById("userText").value;
-    age = document.getElementById("userAge").value;
-    age = Number(age)+1;
-    document.getElementById("head").textContent=`Hello you are ${user}`;
-    
-    document.getElementById("myage").textContent= `You are age of ${age}`;
-}
-*/
+
 let counter = document.getElementById("counter");
 let decrease =  document.getElementById("decrease");
 let reset = document.getElementById("reset");
